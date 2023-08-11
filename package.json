@@ -1,0 +1,20 @@
+{
+  "name": "some-other-project",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "flowbite": "^1.8.1",
+    "postcss": "^8.4.27",
+    "postcss-load-config": "^4.0.1",
+    "postcss-nesting": "^12.0.1",
+    "tailwind-merge": "^1.14.0",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.5"
+  }
+}
